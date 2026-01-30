@@ -4,7 +4,19 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4+-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12+-0055FF?style=flat-square&logo=framer)](https://www.framer.com/motion/)
 
-**Finova** es una landing page moderna y dinámica para una aplicación de banca digital y gestión financiera. Este proyecto destaca por su diseño premium, animaciones fluidas y, fundamentalmente, su sistema de **internacionalización (i18n)** que permite alternar entre múltiples idiomas (Español e Inglés).
+**Finova** es una landing page moderna y dinámica para una aplicación de banca digital y gestión financiera. Este proyecto destaca por su diseño premium, animaciones fluidas.
+
+## 📸 Vista Previa
+
+<div align="center">
+  <img src="public/mockup-hero-desktop.webp" alt="Vista Hero Desktop" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="public/mockup-mobile-hero.webp" alt="Vista Móvil" width="30%" />
+</div>
 
 ## ✨ Características Principales
 
@@ -61,6 +73,12 @@ Para los iconos de plataformas sociales y tiendas de aplicaciones, se han utiliz
 - `/components`: Componentes modulares de la interfaz (Hero, Features, Stats, etc.).
 - `/assets`: Recursos visuales y mockups.
 - `/data`: Datos estáticos y configuración de navegación.
+
+## 📐 Landing Page Completa en Móvil
+
+<div align="center">
+  <img src="public/landing-total.webp" alt="Vista Completa de la Landing" width="100%" />
+</div>
 
 ---
 
