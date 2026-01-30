@@ -9,13 +9,13 @@
 ## 📸 Vista Previa
 
 <div align="center">
-  <img src="public/mockup-hero-desktop.webp" alt="Vista Hero Desktop" width="100%" />
+  <img src="./public/mockup-hero-desktop.webp" alt="Vista Hero Desktop" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="public/mockup-mobile-hero.webp" alt="Vista Móvil" width="30%" />
+  <img src="./public/mockup-mobile-hero.webp" alt="Vista Móvil" width="30%" />
 </div>
 
 ## ✨ Características Principales
@@ -77,7 +77,7 @@ Para los iconos de plataformas sociales y tiendas de aplicaciones, se han utiliz
 ## 📐 Landing Page Completa en Móvil
 
 <div align="center">
-  <img src="public/landing-total.webp" alt="Vista Completa de la Landing" width="100%" />
+  <img src="./public/landing-total.webp" alt="Vista Completa de la Landing" width="100%" />
 </div>
 
 ---
